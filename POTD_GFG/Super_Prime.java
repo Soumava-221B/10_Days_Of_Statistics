@@ -29,7 +29,7 @@ package POTD_GFG;
 import java.io.*;
 import java.util.*;
 
-class GFG {
+class Super_Prime {
     public static void main(String args[]) throws IOException{
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(read.readLine());
