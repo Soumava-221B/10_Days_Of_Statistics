@@ -1,3 +1,5 @@
+package POTD_GFG;
+
 import java.io.*;
 import java.util.*;
 

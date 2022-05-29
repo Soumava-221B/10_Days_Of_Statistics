@@ -1,3 +1,5 @@
+package POTD_GFG;
+
 //Even_Odd 
 
 import java.io.*;

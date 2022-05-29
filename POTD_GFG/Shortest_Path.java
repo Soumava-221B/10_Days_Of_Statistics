@@ -1,3 +1,5 @@
+package POTD_GFG;
+
 //Shortest_Path 
 
 //Initial Template for Java

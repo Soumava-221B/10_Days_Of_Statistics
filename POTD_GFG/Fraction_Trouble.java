@@ -1,3 +1,4 @@
+package POTD_GFG;
 
 //Initial Template for Java
 import java.util.*;

@@ -1,3 +1,5 @@
+package POTD_GFG;
+
 //POTD_230522 
 
 //Initial template for JAVA
